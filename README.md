@@ -1,0 +1,1 @@
+"I'm excited to share my first Parallax project, built using CSS. This project was a great learning experience for me, and I'm proud of how it turned out. I used CSS to create a simple Parallax effect, and I'm looking forward to improving my skills and creating more complex projects in the future."
